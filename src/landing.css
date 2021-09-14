@@ -1,5 +1,5 @@
 .container3 {
-	background: url('./Assets/truckHeader.jpeg');
+	background: url('./Assets/business.jpeg');
 	background-size:cover;
     background-position: center top;
 	background-repeat: no-repeat;
@@ -87,7 +87,7 @@
         font-size: 14px;
     }
     .container3 {
-        background: url('./Assets/bgImg.png');
+        background: url('./Assets/business.jpeg');
 	background-size:cover;
     background-position: center left;
 	background-repeat: no-repeat;
@@ -128,7 +128,7 @@
 
 @media screen and (max-width: 400px){
     .container3 {
-        background: url('./Assets/bgImg.png');
+        background: url('./Assets/business.jpeg');
 	background-size:cover;
     background-position: center left;
 	background-repeat: no-repeat;
