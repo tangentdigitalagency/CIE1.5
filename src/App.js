@@ -192,7 +192,7 @@ class App extends Component {
 					<div className='container'>
 						<img
 							// @ts-ignore
-							src={require('./Assets/utqLogo.png')}
+							src={require('./Assets/logo.png')}
 							className='m-4'
 							width='200px'
 							alt=''

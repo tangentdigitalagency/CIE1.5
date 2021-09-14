@@ -1,7 +1,7 @@
 import { Button, Card, Col, Collapse, Form, Input, Layout, Row, Typography} from 'antd';
 import Grid from '@material-ui/core/Grid';
 
-import logo from './Assets/utqLogo.png';
+import logo from './Assets/logo.png';
 
 import best from './Assets/img/best.png';
 import budget from './Assets/img/budget.png';
@@ -178,7 +178,8 @@ class LandingPage extends Component {
 					<Grid container xs={10} style={{ paddingBottom: '1rem', marginTop: '1rem' }}>
 						
 					<Grid item lg={3} xs={12} style={{ alignSelf: 'flex-end' }}>
-						<Typography style={{ fontSize: '15px', color: 'rgb(166, 166, 166)' }}>2021 USA Trucking Quotes</Typography>
+						<Typography style={{ fontSize: '15px', color: 'rgb(166, 166, 166)' }}>2021 Commercial Insurance Experts</Typography>
+						<Typography style={{ fontSize: '15px', color: 'rgb(166, 166, 166)' }}>Powered By Quotehound</Typography>
 					</Grid>
 					<Grid item lg={12} xs={12} />
 					<Grid container lg={12} xs={12}>
