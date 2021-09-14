@@ -504,7 +504,7 @@ class App extends Component {
 					</Grid>
 					<Grid container xs={10} style={{ paddingBottom: '1rem', marginTop: '1rem' }}>
 						<Grid item lg={3} xs={12} style={{ alignSelf: 'flex-end' }}>
-							<Typography style={{ fontSize: '15px', color: 'rgb(166, 166, 166)' }}>2021 USA Trucking Quotes</Typography>
+							<Typography style={{ fontSize: '15px', color: 'rgb(166, 166, 166)' }}>2021 Commercial Insurance Experts</Typography>
 						</Grid>
 						<Grid item lg={6} xs={false} />
 						<Grid container lg={3} xs={12}>
