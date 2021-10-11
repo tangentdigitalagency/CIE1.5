@@ -45,7 +45,7 @@ class LandingPage extends Component {
 									/>
 								}
 								>
-				<a href='tel:+18885671448'>
+				<a href='tel:+18885671448' className="telnum">
 							888-567-1448
 
 </a>

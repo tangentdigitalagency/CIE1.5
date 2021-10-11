@@ -21,6 +21,10 @@
 }
 
 
+.telnum {
+    color: white;
+}
+
 input[type='number'] {
     -moz-appearance:textfield;
     font-size: 18px;
