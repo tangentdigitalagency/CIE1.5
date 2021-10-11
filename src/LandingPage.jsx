@@ -142,10 +142,14 @@ class LandingPage extends Component {
 				
 				<section className='container my-5'>
 					<Row>
-						
+					
 					<Col xs={{ span: 24 }} lg={{ span: 8 }}>
 									<Card className=' card shadow-sm' cover={<img alt='example' src={budget} />}>
 										<Meta title='Affordable Prices' description='no matter your budget we can find the policy right for you and your family.' />
+										<a href='tel:+18885671448' className="telnum">
+							888-567-1448
+
+</a>
 									</Card>
 
 								</Col>
