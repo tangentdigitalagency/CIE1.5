@@ -44,8 +44,11 @@ class LandingPage extends Component {
 										rotate='90'
 									/>
 								}
-								href={'tel:+18885671448'}>
-								888-567-1448 
+								>
+				<a href='tel:+18885671448'>
+							888-567-1448
+
+</a>
 							</Button>
 							TTY: 711 
 					</Col>
