@@ -78,7 +78,7 @@ input::-webkit-inner-spin-button {
 }
 
 .container3 {
-	background: url('./Assets/business.jpeg');
+	background: url('./Assets/business.png');
 	background-size:cover;
     background-position: center center;
 	background-repeat: no-repeat;
@@ -167,7 +167,7 @@ background-color: rgba(255, 255, 255, 0.9);
         font-size: 14px;
     }
     .container3 {
-        background: url('./Assets/business.jpeg');
+        background: url('./Assets/business.png');
 	background-size:cover;
     background-position: center left;
 	background-repeat: no-repeat;
@@ -459,7 +459,7 @@ background-color: rgba(255, 255, 255, 0.9);
 }
 
 .landing-page .service-main-image.business {
-    background-image: url("./Assets/business.jpeg");
+    background-image: url("./Assets/business.png");
     background-size: contain;
     border-radius: 15px;
 }
