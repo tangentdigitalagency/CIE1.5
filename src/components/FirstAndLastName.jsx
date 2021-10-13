@@ -18,11 +18,7 @@ class S1FirstAndLastName extends Component {
   onFinishFailed = (errorInfo) => {
     console.log("Failed:", errorInfo);
   };
-  // nextpage =()=>(
-  //   // <Redirect to="/step2"/>
-  //   this.props.history.push("/step2"),
-  //   console.log(`netx page`,this.props)
-  // )
+
   render() {
 
     return (

@@ -385,7 +385,7 @@ class App extends Component {
 													...this.state.postData,
 													gclid: document.getElementById('gclid_field').value,
 													jornaya_lead_id: document.getElementById('leadid_token').value,
-													trusted_form_cert_id: document.getElementById('trusted_form_cert_id_0').value,
+													//trusted_form_cert_id: document.getElementById('trusted_form_cert_id_0').value,
 												},
 											});
 											console.log(document.getElementById('trusted_form_cert_id_0'));
