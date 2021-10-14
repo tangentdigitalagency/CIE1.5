@@ -42,7 +42,7 @@ class App extends Component {
 			trusted_form_cert_id: '',
 			jornaya_lead_id: '',
 			// Redirect_URL: "",
-			Landing_Page: 'usatruckingquotes.com',
+			Landing_Page: 'commercialinsuranceexperts.com',
 			IP_Address: '',
 			//s1 form fields
 			first_name: '',
